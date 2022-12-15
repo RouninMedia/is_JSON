@@ -1,5 +1,5 @@
 # is_JSON
-A simple pair of PHP & JS functions which detect if a given string is valid JSON. An Ashiva component.
+A simple pair of PHP & JS functions which detect if a given string is valid JSON.
 
 ## PHP `is_JSON` Function
 
